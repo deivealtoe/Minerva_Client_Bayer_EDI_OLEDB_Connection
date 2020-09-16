@@ -4,7 +4,7 @@
 
 #### Pode ser efetuado o download no link: [ODAC122011_x64.rar](https://mega.nz/file/RDYUBSLZ#pwoL9DvZtz-VYZiU8x7tFNBQs1QPAq3z7jKSmktMCVU)
 
-#### Durante a instalação, marcar apenas:
+#### Durante a instalação, marquei apenas:
 
 + Oracle Data Provider for .NET
 + Oracle Providers for ASP.NET
